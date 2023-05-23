@@ -31,12 +31,12 @@ body {
 
 .button-task {
     border: none;
-    border-radius: 5px;
+    border-radius: 25px;
     height: 40px;
     background-color: #003329;
     color: #fff;
-    font-size: 17px;
-    padding: 0 15px;
+    font-size: 20px;
+    padding: 0 30px;
     float: right;
     cursor: pointer;
     font-weight: 700;
